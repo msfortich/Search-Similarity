@@ -45,7 +45,9 @@ The **Search Term Similarity Project** is designed to analyze Amazon's monthly s
 ---
 
 ## **Example Output**
-| Term 1        | Term 2         | Cosine Similarity | Trend Category |
-|----------------|----------------|-------------------|----------------|
-| "wireless mouse" | "bluetooth mouse" | 0.89              | Electronics    |
-| "diet shakes"   | "protein drinks"   | 0.85              | Health         |
+| Search Term                           | Compared Term                    | Similarity Score | Searchterm                        | Trend                     | Unmapped/Mapped | Compared Trend | Compared Term Unmapped/Mapped | Final Trend              |
+|---------------------------------------|-----------------------------------|------------------|-----------------------------------|---------------------------|------------------|----------------|-------------------------------|--------------------------|
+| 100026                                | enemies to lovers romance fantasy | mm enemies to lovers romance | 0.7060 | enemies to lovers romance fantasy | Enemies to Lovers Romance | Mapped          | Romcom Books   | Mapped                        | Enemies to Lovers Romance |
+| 100027                                | enemies to lovers romance fantasy | mm enemies to lovers romance | 0.7060 | enemies to lovers romance fantasy | Enemies to Lovers Romance | Mapped          | All Romance    | Mapped                        | Enemies to Lovers Romance |
+
+---
