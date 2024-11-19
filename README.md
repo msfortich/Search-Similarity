@@ -2,8 +2,7 @@
 # **Search Term Similarity Project**
 
 ## **Project Overview**
-The **Search Term Similarity Project** is a data-driven initiative designed to analyze Amazon's monthly search query data. By leveraging cosine similarity, this project links emerging search terms to broader market trends, providing actionable insights for targeted strategies across departments such as Marketing, Sales, and Product Development. Results are automatically ingested into Google BigQuery for continuous analysis and scalability.
-
+The **Search Term Similarity Project** is designed to analyze Amazon's monthly search query data. By leveraging cosine similarity, this project links emerging search terms to broader market trends, providing actionable insights for targeted strategies across departments.
 ---
 
 ## **Key Objectives**
